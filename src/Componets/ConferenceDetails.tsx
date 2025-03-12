@@ -1,5 +1,5 @@
 import React from "react";
-import jane1 from "../assets/images/home/20801.png";
+import jane1 from "../../src/assets/images/Home/20801.png";
 import john1 from "../assets/images/home/2149073882.png";
 import jane2 from "../assets/images/home/129412.png";
 import john2 from "../assets/images/home/2930.png";
